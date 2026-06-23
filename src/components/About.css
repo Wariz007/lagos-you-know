@@ -1,0 +1,26 @@
+.about {
+    padding: 36px 20px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.about span {
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    color: #666666;
+    text-transform: uppercase;
+}
+
+.about h1 {
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin-top: 8px;
+    margin-bottom: 16px;
+}
+
+.about p {
+    font-size: 0.875rem;
+    color: #1a1a1a;
+    line-height: 1.8;
+}

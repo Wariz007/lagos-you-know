@@ -1,0 +1,13 @@
+.navBar {
+    display: flex;
+    align-items: center;
+    padding: 14px 20px;
+    position: sticky;
+    top: 0;
+    background-color: #ffffff;
+    z-index: 100;
+}
+
+.logo {
+    width: 80px;
+}

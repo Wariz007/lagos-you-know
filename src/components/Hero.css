@@ -1,0 +1,35 @@
+.hero {
+    position: relative;
+    width: 100%;
+}
+
+.hero-image {
+    width: 100%;
+    height: 260px;
+    object-fit: cover;
+    display: block;
+}
+
+.hero-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 16px;
+    background: linear-gradient(to top, rgba(0,0,0,0.65) 0%, transparent 100%);
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.hero-overlay span {
+    font-size: 0.85rem;
+    color: #ffffff;
+    font-weight: 400;
+}
+
+.hero-overlay h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #ffffff;
+}

@@ -1,0 +1,36 @@
+.socials {
+    padding: 36px 20px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.socials-header span {
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    color: #666666;
+    text-transform: uppercase;
+}
+
+.socials-header h1 {
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin-top: 8px;
+    margin-bottom: 24px;
+}
+
+.socials-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.socials-buttons a {
+    display: inline-block;
+    padding: 10px 18px;
+    background-color: #1a1a1a;
+    color: #ffffff;
+    font-size: 0.85rem;
+    font-weight: 500;
+    border-radius: 999px;
+}

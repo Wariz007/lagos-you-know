@@ -1,0 +1,50 @@
+.contact {
+    padding: 36px 20px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.contact > span {
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    color: #666666;
+    text-transform: uppercase;
+}
+
+.contact h1 {
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin-top: 8px;
+    margin-bottom: 24px;
+}
+
+.contact-cards {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.contact-card {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    background-color: #F5F5F7;
+}
+
+.contact-card span {
+    font-size: 0.65rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    color: #666666;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+}
+
+.contact-card {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: #1a1a1a;
+}
